@@ -1,0 +1,352 @@
+ .navbar-brand {
+
+ 	font-size: 25px;
+ 	padding-left: 5px;
+ 	color: #ffffff;
+
+ }
+
+ /*navbar*/
+
+ .clr {
+ 	color: #ffffff;
+ }
+
+ .alg {
+ 	align-items: left;
+ }
+
+ .navbar_color {
+ 	background-color: #e7f0f5;
+ }
+
+ .tombol {
+ 	background-color: #28A2DB;
+ 	border-radius: 40px;
+
+ }
+
+ .tombol2 {
+ 	border-radius: 40px;
+ 	margin-left: 50px;
+ 	margin-right: 50px;
+ 	width: 250px;
+ 	background-color: #28A2DB;
+ }
+
+ .tombol3 {
+ 	border-radius: 40px;
+ 	width: 100px;
+ 	background-color: #28A2DB;
+ 	text-align: center;
+
+ }
+
+ .tombol4 {
+ 	border-radius: 40px;
+ 	width: 100px;
+ 	background-color: #28A2DB;
+ 	text-align: center;
+ 	float: right;
+
+ }
+
+ .bungkus {
+ 	text-align: center;
+ 	margin-top: : 50px;
+ 	padding-top: 50px;
+ 	position: relative;
+ }
+
+ .bungkus1 {
+ 	text-align: center;
+ 	margin-top: : 50px;
+ 	padding-top: 50px;
+ 	position: relative;
+ 	margin-bottom: 50px;
+ }
+
+ .bungkus2 {
+ 	text-align: center;
+ 	margin-top: : 30px;
+ 	padding-top: 30px;
+ 	position: relative;
+ 	margin-bottom: 50px;
+ }
+
+ .bungkus3 {
+ 	text-align: center;
+ 	margin-top: : 10px;
+ 	padding-top: 20px;
+ 	position: relative;
+ 	margin-bottom: 30px;
+ }
+
+
+ .posisi {
+ 	text-align: center;
+ 	margin: auto;
+ }
+
+ .gambar {
+ 	width: auto;
+ 	height: auto;
+ }
+
+ .texts {
+ 	font-size: 12px;
+ }
+
+ .container {
+
+ }
+
+ /*gambar*/
+
+ .img {
+ 	padding-left: 20px;
+ }
+
+ .imgpadtop {
+ 	padding-top: 60px;
+ 	padding-bottom: 60px;
+ }
+
+ .imgpadtop2 {
+ 	
+ 	margin-top: 30px;
+ 	padding-top: 60px;
+
+ }
+
+ .info-panel {
+ 	background-color: #ffffff;
+
+ }
+
+
+ .info-panel2 {
+ 	background-color: #87c0cd;
+
+ }
+
+ .info-panel3 {
+ 	background-color: #87c0cd;
+ 	padding-top: 40px;
+ 	padding-bottom: 30px;
+ 	border-bottom-right-radius: 40px;
+ 	border-bottom-left-radius: 40px;
+
+ }
+
+ .info-panel4 {
+ 	background-color: #87c0cd;
+ 	padding-top: 50px;
+ 	padding-bottom: 50px;
+ 	padding-left: 30px;
+ 	padding-right: 30px;
+	/*border-bottom-right-radius: 40px;
+	border-bottom-left-radius: 40px;*/
+	border-radius:  40px;
+}
+
+.info-panel8 {
+	background-color: #87c0cd;
+	padding-top: 90px;
+	padding-bottom: 50px;
+	padding-left: 30px;
+	padding-right: 30px;
+	/*border-bottom-right-radius: 40px;
+	border-bottom-left-radius: 40px;*/
+	border-radius:  40px;
+}
+
+.info-panel5 {
+	background-color: #87c0cd;
+	padding-top: 50px;
+	padding-bottom: 70px;
+	padding-left: 30px;
+	padding-right: 30px;
+/*border-bottom-right-radius: 40px;
+border-bottom-left-radius: 40px;*/
+border-radius:  40px;
+
+}
+
+.imag {
+	border-radius: 40px;
+	border-bottom-right-radius: 40px;
+	border-bottom-left-radius: 40px;
+}
+
+.img_tengah {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.logo {
+	margin-right: 20px;
+}
+
+/*kotak*/
+
+.box1{
+	width:auto;
+	height:auto;
+	background-color: #e7f0f5;
+}
+
+/*registrasi*/
+
+.containerbackround {
+	height: auto;
+	width: auto;
+	background-color: #f3f9fb;
+}
+
+.body {
+	font-family: 'Source Sans Pro';
+	background-color: #f3f9fb;
+	margin:0;
+	color:white;
+}
+
+
+/*UNTUK HALAMAN BERHASIL REGISTRASI*/
+
+.text1 {
+	font-size: 20px;
+	text-align: center;
+	padding-top: 30px;
+}
+
+.text4 {
+	font-size: 20px;
+	text-align: center;
+	
+}
+
+.textup {
+	font-size: 20px;
+	text-align: center;
+	
+}
+
+.text2 {
+	font-size: 20px;
+	text-align: center;
+	padding-top: 30px;
+}
+
+
+
+
+.padd {
+	padding-top: 100px;
+}
+
+.tombol5 {
+
+	border-radius: 40px;
+	width: 180px;
+	margin-top: 30px;
+
+	background-color: #28A2DB;
+	font-size: 15px;
+
+}
+
+.info-panel5 {
+	background-color: #87c0cd;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	border-bottom-right-radius: 40px;
+	border-bottom-left-radius: 40px;
+	
+}
+
+.counter1 {
+	padding-bottom: 40px;
+}
+
+@media screen and (max-width: 520px) {
+	table {
+		width: 100%;
+	}
+	thead th.column-primary {
+		width: 100%;
+	}
+
+	thead th:not(.column-primary) {
+		display:none;
+	}
+	
+	th[scope="row"] {
+		vertical-align: top;
+	}
+	
+	td {
+		display: block;
+		width: auto;
+		text-align: right;
+	}
+	thead th::before {
+		text-transform: uppercase;
+		font-weight: bold;
+		content: attr(data-header);
+	}
+	thead th:first-child span {
+		display: none;
+	}
+	td::before {
+		float: left;
+		text-transform: uppercase;
+		font-weight: bold;
+		content: attr(data-header);
+	}
+}
+
+
+.textx {
+	font-family: 'Anton', sans-serif; color: white;
+}
+
+.tulisannya {
+	color: #ffffff;
+	font-size: 25px;
+}
+
+.tulisan2 {
+	color: #ffffff;
+	font-size: 20px;
+}
+
+.tulisan3 {
+	color: #ffffff;
+	font-size: 15px;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.tulisan4 {
+	color: #000000;
+	font-size: 15px;
+	text-align: center;
+	color: white; background-color: #1d3557; padding-top: 10px; padding-bottom: 5px; border-top-left-radius: 20px; border-top-right-radius: 20px;
+}
+
+.box1{
+
+	width:150px;
+	height:150px;
+	background:green;
+
+}
+
+//LOGIN
+
+.tengah {
+	text-align: center;
+}
+
